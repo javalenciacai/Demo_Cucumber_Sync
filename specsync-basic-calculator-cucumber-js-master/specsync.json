@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://schemas.specsolutions.eu/specsync4azuredevops-config-latest.json",
+  "compatibilityVersion": "3.2",
+  //
+  // See configuration options and samples at http://speclink.me/specsyncconfig.
+  //
+  "remote": {
+    "projectUrl": "https://dev.azure.com/SiigoDevOps/Siigo",
+    "user": "zhmesdqxqsunqefkgk3vtm3l6zy5l2h6vsb76iy6bdmzmp5q3d4q",
+    "testSuite":{
+      "name": "BDD Scenarios DEMO"
+    }
+  }
+}
